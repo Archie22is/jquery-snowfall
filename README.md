@@ -39,7 +39,9 @@ Include jQuery and the jquery.snowfall.js file in your HTML file:
 </html>
 ```
 
-##Options
+## Options
+You have the following options to choose from: 
+
 * intensity (number): Sets the number of snowflakes on the screen. Default is 100.
 * direction (string): Sets the direction of the snowfall. Options are 'down', 'left', 'right', and 'up'. Default is 'down'.
 * size (number): Sets the size of the snowflakes in pixels. Default is 5.
